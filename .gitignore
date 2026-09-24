@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Pesos de modelos (grandes demais para o GitHub)
+*.pt
+*.pth
+*.onnx
+checkpoints/
+
+# Dados e imagens de treino
+data/
+dataset/train/
+dataset/valid/
+
+# Saídas geradas
+resultados/
+runs/

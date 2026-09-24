@@ -1,0 +1,7 @@
+path: /home/ecotrace/EcotraceProjeto/Projetos/Segmentacao/dataset
+train: train/images
+val: train/images
+
+names:
+  0: Carne
+  1: Gordura

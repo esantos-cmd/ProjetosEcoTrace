@@ -1,0 +1,7 @@
+torch>=2.2
+torchvision>=0.17
+segmentation-models-pytorch>=0.4
+albumentations>=1.4
+opencv-python>=4.8
+numpy
+tqdm
