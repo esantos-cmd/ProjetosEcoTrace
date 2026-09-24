@@ -1,0 +1,4 @@
+cd ~/EcotraceProjeto/Projetos/Segmentacao
+git add .
+git commit -m "descreva o que mudou"
+git push

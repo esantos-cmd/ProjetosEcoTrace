@@ -1,4 +1,7 @@
-"""Visualizador do modelo de segmentação: escolha uma imagem e veja o resultado.
+"""
+----- Treino de U-Net / DeepLabV3+ com segmentation_models_pytorch------
+
+Visualizador do modelo de segmentação: escolha uma imagem e veja o resultado.
 
 Mostra lado a lado:
     Original | Resultado do modelo | Anotação (se existir máscara em ../masks/)
